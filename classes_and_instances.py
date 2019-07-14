@@ -30,5 +30,3 @@ emp_2 = Employee('Test', 'User', 60000)
 # Using class name itself
 emp_1.fullname()
 print(Employee.fullname(emp_1))
-
-
