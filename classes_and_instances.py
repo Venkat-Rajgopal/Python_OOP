@@ -1,5 +1,5 @@
 # Python object oriented programming
-# Lesson 1 : Classes and Instances
+# Chap 1 : Classes and Instances
 
 # creating classes. Difference between a class and an instance of a class. 
 
