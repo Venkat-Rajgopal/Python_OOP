@@ -11,4 +11,4 @@ The Object Oriented part covers the following parts:
 ---
 
 ### *Credits* 
-- Dan Bader and the team at [Real Python](https://realpython.com) for their excellent Python Education series. I have benefitted hugely from tutorials. 
+- Dan Bader and the team at [Real Python](https://realpython.com) for their excellent Python Education series. I have benefitted hugely from their tutorials. 
