@@ -1,3 +1,5 @@
+# Check what happens calling a recursive function
+
 def try_recursion(k):
     if(k>0):
         result = k + try_recursion(k-1)
