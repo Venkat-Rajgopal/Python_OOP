@@ -5,7 +5,8 @@ I created this repo to make a collection of all useful Python based algorithms a
 
 - [Fibonacci sequence](/fibonacci.py) A function which gives the sum of Fibonacci numbers from 0 to n.
 - [Sum of a sequence](/sum.py) A simple idea of using arguments. 
-- [Check Palindrome](/palindrome.py) function that returns all the palindromes from a string.
+- [Check Palindrome](/palindrome.py) Function that returns all the palindromes from a string.
+- [Recursion](/try_recursion.py) Implementation of a recursive function. 
 
 ## Object oriented python (*work in progress*)
 The Object Oriented part covers the following parts:
