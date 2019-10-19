@@ -7,6 +7,8 @@ I created this repo to make a collection of all useful Python based algorithms a
 - [Sum of a sequence](/sum.py) A simple idea of using arguments. 
 - [Check Palindrome](/palindrome.py) Function that returns all the palindromes from a string.
 - [Recursion](/try_recursion.py) Implementation of a recursive function. 
+- [Duplicates](/check_duplicates.py) Checks for duplicates in a array.
+
 
 ## Object oriented python (*work in progress*)
 The Object Oriented part covers the following parts:
