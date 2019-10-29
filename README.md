@@ -13,9 +13,9 @@ I created this repo to make a collection of all useful Python based algorithms a
 
 ## CodeWars
 Codewars is the best resource to practice coding. Here are some of my solutions. 
-- [Who likes](/codewars/who-likes.py) Get the number of likes from a string and parse it. 
+- [Who likes](/codewars/who_likes.py) Get the number of likes from a string and parse it. 
 - [Filter lists](/codewars/list_filtering.py) Function that takes a list of non-negative integers and strings as inputs and returns a new list with string filtered out. 
-
+- [Name Abbrevation](/codewars/name_to_initial.py) Function to convert a name into initials.
 
 ## Object oriented python (*work in progress*)
 The Object Oriented part covers the following parts:
@@ -23,6 +23,5 @@ The Object Oriented part covers the following parts:
 
 
 ----
-
 ### *Credits* 
-- Dan Bader and the team at [Real Python](https://realpython.com) for their excellent Python Education series. I have benefited hugely from their tutorials. 
+- Dan Bader and the team at [Real Python](https://realpython.com) for their excellent Python  tricks. I have benefited hugely from their tutorials. 
