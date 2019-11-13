@@ -16,6 +16,7 @@ Codewars is the best resource to practice coding. Here are some of my solutions.
 - [Who likes](/codewars/who_likes.py) Get the number of likes from a string and parse it. 
 - [Filter lists](/codewars/list_filtering.py) Function that takes a list of non-negative integers and strings as inputs and returns a new list with string filtered out. 
 - [Name Abbrevation](/codewars/name_to_initial.py) Function to convert a name into initials.
+- [Count Monkeys](/codewars/countmonkeys.py) Elegant solution to count digits from 1 to `n`. 
 
 ## Object oriented python (*work in progress*)
 The Object Oriented part covers the following parts:
