@@ -4,7 +4,9 @@ I created this repo to make a collection of all useful Python based algorithms a
 
 
 ## Algorithms
-- [Fibonacci sequence](/fibonacci.py) A function which gives the sum of Fibonacci numbers from 0 to n.
+- [Fibonacci sequence](/Fibonacci/fibonacci.py) A function which gives the sum of Fibonacci numbers from 0 to n.
+- [Fibonacci Fast](/Fibonacci/fibonacci_fast.py) A faster method for Fibonacci instead of using a recursive function. 
+- [Fibonacci Last digit](/Fibonacci/fibonacci_last_digit.py) Returns the last digit from a Fibonacci sequence. 
 - [Sum of a sequence](/sum.py) A simple idea of using arguments. 
 - [Check Palindrome](/palindrome.py) Function that returns all the palindromes from a string.
 - [Recursion](/try_recursion.py) Implementation of a recursive function. 
@@ -17,6 +19,8 @@ Codewars is the best resource to practice coding. Here are some of my solutions.
 - [Filter lists](/codewars/list_filtering.py) Function that takes a list of non-negative integers and strings as inputs and returns a new list with string filtered out. 
 - [Name Abbrevation](/codewars/name_to_initial.py) Function to convert a name into initials.
 - [Count Monkeys](/codewars/countmonkeys.py) Elegant solution to count digits from 1 to `n`. 
+- [Check square](/codewars/issquare.py) Given a integral number determine if its a square number. 
+- [Sum lowest](/codewars/sum_two_lowest.py) A function that returns the sum of the two lowest positive numbers given an array of minimum 4 positive integers. 
 
 ## Object oriented python (*work in progress*)
 The Object Oriented part covers the following parts:
