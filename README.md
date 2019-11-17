@@ -29,4 +29,4 @@ The Object Oriented part covers the following parts:
 
 ----
 ### *Credits* 
-- Dan Bader and the team at [Real Python](https://realpython.com) for their excellent Python  tricks. I have benefited hugely from their tutorials. 
+- Dan Bader and the team at [Real Python](https://realpython.com) for their excellent Python tricks. I have benefited hugely from their tutorials. 
