@@ -1,17 +1,17 @@
 # Curated list of useful python tricks. 
 
-I created this repo to make a collection of all useful Python based algorithms and some tricks i have been using of-late and which could be useful for everyone. 
+I created this repo to make a collection of all useful Python based [Algorithms](/Algorithms), [Codewars challenges](/codewars), handy [Pandas](/Pandas) tricks useful for day to day Data science workflow. 
 
-
+---
 ## Algorithms
 - [Fibonacci sequence](/Fibonacci/fibonacci.py) A function which gives the sum of Fibonacci numbers from 0 to n.
 - [Fibonacci Fast](/Fibonacci/fibonacci_fast.py) A faster method for Fibonacci instead of using a recursive function. 
 - [Fibonacci Last digit](/Fibonacci/fibonacci_last_digit.py) Returns the last digit from a Fibonacci sequence. 
-- [Sum of a sequence](/sum.py) A simple idea of using arguments. 
-- [Check Palindrome](/palindrome.py) Function that returns all the palindromes from a string.
-- [Recursion](/try_recursion.py) Implementation of a recursive function. 
-- [Duplicates](/check_duplicates.py) Checks for duplicates in a array.
-
+- [Sum of a sequence](/Algorithms/sum.py) A simple idea of using arguments. 
+- [Check Palindrome](/Algorithms/palindrome.py) Function that returns all the palindromes from a string.
+- [Recursion](/Algorithms/try_recursion.py) Implementation of a recursive function. 
+- [Duplicates](/Algorithms/check_duplicates.py) Checks for duplicates in a array.
+- [Coin change](Algorithms/change.py) Find the no. of coins needed to change the input value. 
 
 ## CodeWars
 Codewars is the best resource to practice coding. Here are some of my solutions. 
