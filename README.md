@@ -22,6 +22,10 @@ Codewars is the best resource to practice coding. Here are some of my solutions.
 - [Check square](/codewars/issquare.py) Given a integral number determine if its a square number. 
 - [Sum lowest](/codewars/sum_two_lowest.py) A function that returns the sum of the two lowest positive numbers given an array of minimum 4 positive integers. 
 
+
+## Hackerrank 
+wip
+
 ## Object oriented python (*work in progress*)
 The Object Oriented part covers the following parts:
 - Classes and instances. 
